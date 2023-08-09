@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-&#6x3*rlg_69i3b7+27yv!6t_!yiw_k-)x%=b@vcwc6hxm65hk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8003-pphilippersson6-fsf-hell-44n08brs5y.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-pphilippersson6-fsf-hell-44n08brs5y.us2.codeanyapp.com']
 
 
 # Application definition
@@ -150,7 +150,7 @@ SECRET_KEY = 'django-insecure-&#6x3*rlg_69i3b7+27yv!6t_!yiw_k-)x%=b@vcwc6hxm65hk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8003-pphilippersson6-fsf-hell-44n08brs5y.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-pphilippersson6-fsf-hell-44n08brs5y.us2.codeanyapp.com']
 
 
 # Application definition
@@ -162,7 +162,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'todo'
+    'todo',
 ]
 
 MIDDLEWARE = [
